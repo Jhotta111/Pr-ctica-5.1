@@ -1,2 +1,2 @@
-# Sipositorio-del-trabajo-en-casa
-Este supositorio es creado para completar el trabajo en casa un entregarlo
+Repositorio de la práctica 5.1
+Creo haber completado correctamente la tarea
